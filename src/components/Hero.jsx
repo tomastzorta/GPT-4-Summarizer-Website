@@ -8,7 +8,7 @@ function Hero() {
         className='w-28 object-contain'/>
         <button 
         type='button'
-        onClick={() => window.open('https://github.com/GreekHarvardDev/')} //ADD OWN LINK HERE LATER
+        onClick={() => window.open('https://github.com/GreekHarvardDev/GPT-4-Summarizer-Website')} //ADD OWN LINK HERE LATER
         className='black_btn'
         >
           Github
